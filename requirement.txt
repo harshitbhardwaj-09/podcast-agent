@@ -1,5 +1,5 @@
-firecrawl-py
-openai
-elevenlabs
-agno
-streamlit
+firecrawl-py>=0.1.0
+openai>=1.0.0
+elevenlabs>=0.2.0
+agno>=0.1.0
+streamlit>=1.28.0
